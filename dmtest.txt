@@ -1,0 +1,41 @@
+- Which statements about campaign influence are true? (Select 2 answers)
+
+*Campaign influence allows users to assign a percentage of influence that each campaign had on an opportunity.
+Campaign influence allows users to summarize campaign member statistics on a campaign.
+*Campaign influence allows users to report on which campaigns have contributed to an opportunity.
+Campaign influence allows users to view the entire campaign hierarchy.
+
+- XYZ Inc. wants to create a Workflow Rule to send an email alert to members of its Board of Directors. none of whom use Salesforce. How many of the board members can be added to a single Email Alert? 
+
+*Up to 5 additional email addresses can be added to the Email Alert. 
+It is not possible to add additional email addresses to the Email Alert. 
+Up to 250 additional email addresses can be added to the Email Alert. 
+Up to 25 additional email addresses can be added to the Email Alert. 
+
+- As an Admin. you have been tasked with creating a complex report that contains data from four different objects that are not related to one another. This complex report needs to be able to display record level values for records that belong to each of these four object. What would you do to fulfill this request? 
+
+Create a Matrix Report and include the four objects. 
+Create a Lightning Page and add a Lightning Component for Complex Reports to it 
+*Create a Joined Report and add a block for each of the four objects.
+Create a Custom Report Type of the four objects. 
+
+- A Real Estate company wants to offer a form on its Cloud site to allow Property Inspectors to submit their findings from a property inspection. Which Nature should an administrator piace on the page to fulfil this requirement? 
+
+Related List 
+*Screen Flow 
+Autolaunched Flow 
+Record Detail 
+
+- XYZ Inc. has a queue that is used for managing tasks that need to be worked on by the customer support team. The same team will now be working on some of XYZ's Cases. Which two options should the admin use to help the support team? Choose 2 answers.
+
+*Use Assignment rules to set the queue as the owner of the case 
+*Configure a flow to assign the cases to the queue 
+Create a new queue and add Cases as an available object 
+Add Cases to the existing queue as available objects 
+
+- ABC Corp. has a custom object named Shoe. The administrator has been asked to ensure that when a relationship is created between Account and Shoe, there should be no orphaned Shoe record. How should an administrator achieve this objective? 
+
+*By creating a master-detail lookup 
+By creating a hierarchical lookup 
+By creating an indirect lookup 
+By creating an encrypted lookup 
